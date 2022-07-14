@@ -1,4 +1,4 @@
 # GitHub-Tutorial-DIO 👩🏻‍💻
 Tutorial de como utilizar o git. 
 
- ❗ Clicar no arquivo github.md
+ ❗ Clicar no arquivo Github.md
