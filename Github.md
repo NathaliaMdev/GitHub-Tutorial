@@ -52,8 +52,18 @@ nomepasta >echo "hello">hello.txt | Cria um novo arquivo, o echo grava o que est
         ❗ Dica: Um atalho para utilizar emotes aqui é apertas o simbolo Windowns + "." no seu teclado
 
 | Tipo | Significado|
-|:---------------------------------------:|:---------------------------------------------------------------------|
-git init 
+|:---------------------------------------:|:----------------------------------------------------------------------------------------------|
+git init | Inicializa um repositório git em uma pasta 
+git config --global user.email "" | configura seu e-mail para inserir nos metadados git e em paralelo conectar com o repositório remoto. 
+git config --global user.name "" | configura o nome de usuário. 
+git remote -v | Verifica se há um repositório remoto conectado
+git remote add origin "URL" | Adiciona a URL ( caminho) de um repositório remoto ao repositório git. 
+git add * ou . | Adiciona todos os arquivos novos ou alterados. 
+git commit -m | Nomeia as alterações, aqui é importante dizer o que realmente foi alterado. 
+git status | verifica os status do git, se os arquivos estão rastreados ou não rastreados por ele.
+git push origin master ou main | 
+git pull origin master ou main 
+
 
 
 
