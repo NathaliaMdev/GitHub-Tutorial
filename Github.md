@@ -34,14 +34,14 @@ nomepasta >echo "hello">hello.txt | Cria um novo arquivo, o echo grava o que est
 ## Segue abaixo alguns comandos e atalhos conhecidos utilizando o terminal BASH: ( Alguns comandos são os mesmos do shell)
 
 | Tipo | Significado|
-|:---------------------------------------:|:---------------------------------------------------------------------:|
-
+|:---------------------------------------:|:---------------------------------------------------------------------|
 cd | Acessa pastas
 cd .. | Retorna pastas abertas ( o cd e os dois pontos precisam ter espaço entre eles).
 ls | Mostra todos os arquivos naquela pasta.
 mkdir + nome | Cria uma nova pasta
-rm-rf |Remove um diretório 
+rm-rf | Remove um diretório 
 CRTL + L | Limpa a tela
+nomepasta >echo "hello">hello.txt | Cria um novo arquivo, o echo grava o que está sendo dito e transforma em um nome de arquivo.
 
 --- 
 
