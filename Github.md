@@ -1,8 +1,6 @@
 # Olá, este é um tutorial do git e github para iniciantes. :hamster:  
 
 
-Este arquivo foi salvo em MD, que é uma linguagem de marcação para estilizar textos ( como o HTML ).
-
 ## O que é git? 
 
 **Git é um sistema de versionamento de códigos distribuído criado por Linus Torvalds, responsável pelo compartilhamento de projetos de forma local e remota,
