@@ -1,7 +1,9 @@
-# Olá, este é um tutorial do git e github para iniciantes. :hamster:
+# Olá, este é um tutorial do git e github para iniciantes. :hamster:  
 
-Lembrando que todo este arquivo foi feito em MD, que é uma linguagem de marcação para estilizar textos ( como o HTML ).
 
+Este arquivo foi salvo em MD, que é uma linguagem de marcação para estilizar textos ( como o HTML ).
+
+                  ❗ Dica: Um atalho para utilizar emotes aqui é apertas o simbolo Windowns + "." no seu teclado
 
 ## O que é git? 
 
@@ -44,4 +46,14 @@ CRTL + L | Limpa a tela
 nomepasta >echo "hello">hello.txt | Cria um novo arquivo, o echo grava o que está sendo dito e transforma em um nome de arquivo.
 
 --- 
+
+## Certo, entendo como utilizar o terminal, agora como compartilhar meus arquivos no meu github? 
+
+        ❗ Dica: Um atalho para utilizar emotes aqui é apertas o simbolo Windowns + "." no seu teclado
+
+| Tipo | Significado|
+|:---------------------------------------:|:---------------------------------------------------------------------|
+git init 
+
+
 
