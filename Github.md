@@ -61,8 +61,9 @@ git remote add origin "URL" | Adiciona a URL ( caminho) de um repositório remot
 git add * ou . | Adiciona todos os arquivos novos ou alterados. 
 git commit -m | Nomeia as alterações, aqui é importante dizer o que realmente foi alterado. 
 git status | verifica os status do git, se os arquivos estão rastreados ou não rastreados por ele.
-git push origin master ou main | 
-git pull origin master ou main 
+git push origin master ou main | Envia / Empurra todos os arquivos para o repositório remoto. 
+git pull origin master ou main | Traz todos os arquivos ou alterações que estão no repositório remoto. 
+
 
 
 
