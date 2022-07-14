@@ -1,6 +1,9 @@
 # Olá, este é um tutorial do git e github para iniciantes. :hamster:
 
-##O que é git? 
+Lembrando que todo este arquivo foi feito em MD, que é uma linguagem de marcação para estilizar textos ( como o HTML ).
+
+
+## O que é git? 
 
 **Git é um sistema de versionamento de códigos distribuído criado por Linus Torvalds, responsável pelo compartilhamento de projetos de forma local e remota,
 facilita a gestão do histórico de alterações, facilitando o controle de versões.**
@@ -15,22 +18,30 @@ facilita a gestão do histórico de alterações, facilitando o controle de vers
 ---
 ## Segue abaixo alguns comandos e atalhos conhecidos utilizando o terminal Shell:
 
-Tipo | Significado
-
-|---|---|
+| Tipo | Significado|
+|:---------------------------------------:|:---------------------------------------------------------------------|
 cd  | Acessa pastas
-
 cd ..  | Retorna pastas abertas ( o cd e os dois pontos precisam ter espaço entre eles).
-
-cd + Uma letra qualquer + TAB | Completa as palavras
-
+cd + Uma letra qualquer + TAB | Completa o nome da pasta
 dir | Mostra todos os arquivos naquela pasta.
-
 cls | Limpa a tela
-
-mkdir + workspace | Cria uma nova pasta
-
+mkdir + nome | Cria uma nova pasta
+del/rmdir | Remove um diretório 
 nomepasta >echo "hello">hello.txt | Cria um novo arquivo, o echo grava o que está sendo dito e transforma em um nome de arquivo.
 
-
 ---
+
+## Segue abaixo alguns comandos e atalhos conhecidos utilizando o terminal BASH: ( Alguns comandos são os mesmos do shell)
+
+| Tipo | Significado|
+|:---------------------------------------:|:---------------------------------------------------------------------:|
+
+cd | Acessa pastas
+cd .. | Retorna pastas abertas ( o cd e os dois pontos precisam ter espaço entre eles).
+ls | Mostra todos os arquivos naquela pasta.
+mkdir + nome | Cria uma nova pasta
+rm-rf |Remove um diretório 
+CRTL + L | Limpa a tela
+
+--- 
+
