@@ -50,6 +50,7 @@ nomepasta >echo "hello">hello.txt | Cria um novo arquivo, o echo grava o que est
 | Tipo | Significado|
 |:---------------------------------------:|:----------------------------------------------------------------------------------------------|
 git init | Inicializa um repositório git em uma pasta 
+git config --list | Te fornece a lista de configuações, se você é novo(a) no git você precisa conferir se tem algum usuário configurado e e-mail também. 
 git config --global user.email "" | configura seu e-mail para inserir nos metadados git e em paralelo conectar com o repositório remoto. 
 git config --global user.name "" | configura o nome de usuário. 
 git remote -v | Verifica se há um repositório remoto conectado
