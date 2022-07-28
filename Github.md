@@ -45,7 +45,7 @@ nomepasta >echo "hello">hello.txt | Cria um novo arquivo, o echo grava o que est
 
 ## Certo, entendo como utilizar o terminal, agora como compartilhar meus arquivos no meu github? 
 
-        ❗ Dica: Um atalho para utilizar emotes aqui é apertas o simbolo Windowns + "." no seu teclado
+        ❗ Dica: Um atalho para utilizar emotes aqui é selecionar o simbolo Windowns + "." no seu teclado
 
 | Tipo | Significado|
 |:---------------------------------------:|:----------------------------------------------------------------------------------------------|
