@@ -6,7 +6,7 @@
 **Git é um sistema de versionamento de códigos distribuído criado por Linus Torvalds, responsável pelo compartilhamento de projetos de forma local e remota,
 facilita a gestão do histórico de alterações, facilitando o controle de versões.**
 
-**O git é utilizado através da CLI (command line interface), no qual possui sua compatibilidade de uso paras as So's Linux e Windowns, nos quais os terminais utilizados no windown's é o Shell e no linux o BASH.**
+**O git é utilizado através da CLI (command line interface), no qual possui sua compatibilidade de uso paras as So's Linux e Windowns, nos quais os terminais utilizados no windowns é o Shell e no linux o BASH.**
 
 ## O que é github?
 
