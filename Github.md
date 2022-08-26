@@ -60,7 +60,7 @@ git commit -m | Nomeia as alterações, aqui é importante dizer o que realmente
 git status | verifica os status do git, se os arquivos estão rastreados ou não rastreados por ele.
 git push origin master ou main | Envia / Empurra todos os arquivos para o repositório remoto. 
 git pull origin master ou main | Traz todos os arquivos ou alterações que estão no repositório remoto. 
-git chekout -b | Muda de Branch - Ex: de master para main  "b" = Cria uma branch se não tiver. 
+git checkout -b | Muda de Branch - Ex: de master para main  "b" = Cria uma branch se não tiver. 
 git log--oneline | Histórico das últimas modificações.
 
 
