@@ -61,6 +61,9 @@ git status | verifica os status do git, se os arquivos estão rastreados ou não
 git push origin master ou main | Envia / Empurra todos os arquivos para o repositório remoto. 
 git pull origin master ou main | Traz todos os arquivos ou alterações que estão no repositório remoto. 
 git checkout -b (main/master)| Muda de Branch - Ex: de master para main  "b" = Cria uma branch se não tiver. 
+git checkout (nomedabranch) | Muda de branch só que sem o "-b"
+git branch + nome da branch sem aspas | Cria uma nova branch 
+git branch | sozinho, ele diz quais são as branchs disponíveis 
 git log --oneline | Histórico das últimas modificações.
 
 
